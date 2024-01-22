@@ -18,7 +18,7 @@ class TestActionApplicationTests {
 
     @Test
     void test2() throws Exception {
-        if(1 == 1) {
+        if(1 != 2) {
             throw new Exception();
         }
     }
