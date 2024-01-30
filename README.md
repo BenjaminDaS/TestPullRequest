@@ -5,8 +5,7 @@ Description du projet :
 
 ## Membres et rôles 
 > Product Owner
-
-    Maxime, Benjamin, Simon
+Maxime, Benjamin, Simon
 
 > Scrum Master
 
