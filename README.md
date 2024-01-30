@@ -4,16 +4,26 @@ Description du projet :
 
 
 ## Membres et rôles 
-> Da Silva Benjamin 
+> Product Owner
 
-    Product Owner, Scrum Master, Responsable Serveur
-  
+    Maxime, Benjamin, Simon
 
-> Douziech Simon
+> Scrum Master
 
-    Responsable Android
+    Benjamin
 
+> Responsable Serveur
 
-> Froissant Maxime
+    Benjamin
 
-    Responsable Android
+> Responsable Android
+
+    Simon
+
+> Responsable API
+
+    Maxime
+
+> Développeurs
+
+    Maxime, Simon, Benjamin
