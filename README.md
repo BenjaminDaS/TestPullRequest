@@ -4,13 +4,13 @@ Description du projet :
 
 
 ## Membres et rôles 
-> Product Owner
+> Product Owner (les rôles ont changés tout au long du projet) 
 
      Maxime, Benjamin, Simon
 
-> Scrum Master
+> Scrum Master (les rôles ont changés tout au long du projet) 
 
-    Benjamin
+    Benjamin, Simon, Maxime
 
 > Responsable Serveur
 
