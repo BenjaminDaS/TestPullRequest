@@ -1,7 +1,9 @@
 ## SAE-S5-Android
 
 Description du projet :
-(description du projet)
+Le projet a pour but la création d'une application mobile. 
+Cette application a pour nom MSB, et est une application pour les coureurs.
+Elle a pour but l'enregistrement de parcours et la lecture d'anciens parcours via une communication avec une API stockant les données.
 
 ## Membres et rôles 
 > Product Owner (les rôles ont changés tout au long du projet) 
@@ -29,5 +31,5 @@ Description du projet :
     Maxime, Simon, Benjamin
 
 ## Liens utiles
-(liens de l'autre projet)
-(liens du projet)
+liens vers l'API : https://github.com/BenjaminDaS/SAE-S5-API
+liens du projet : https://github.com/users/BenjaminDaS/projects/3/views/1
